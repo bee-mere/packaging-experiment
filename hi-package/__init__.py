@@ -1,1 +1,1 @@
-import hithere
+from hithere import main
